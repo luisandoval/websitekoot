@@ -12,16 +12,16 @@ body {
   text-align: center;
 }
 
-.footer { /* Cambio de id (#) a Class (.)*/
-	position: absolute;
-	bottom: 0px;
+.MapaGeneralSitio { /* Cambio de id (#) a Class (.)*/
+	position: relative;
+	bottom: 50px;
 	width: 100%;
 	height: 220px; /* Modificación a 220px */
 	background-color: #F5F5F5;
 }
 
 /*-----------------------------------*/
-.footer > .container {
+/*.footer > .container {
 	 padding-right: 15px;
 	 padding-left: 15px;
-}
+}*/
